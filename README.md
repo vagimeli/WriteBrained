@@ -24,3 +24,6 @@ Here are some helpful technical writing and editing resources that provide worth
 
 - [OpenSearch Style Guidelines](https://github.com/opensearch-project/documentation-website/blob/main/STYLE_GUIDE.md)
 - [SUSE Documentation Style Guide](https://github.com/SUSE/doc-styleguide)
+- [Red Hat Style Guides](https://redhat-documentation.github.io/supplementary-style-guide/)
+- [Google Developer Documentation Style Guide](https://developers.google.com/style)
+- [Write the Doc Style Guides](https://www.writethedocs.org/guide/writing/style-guides/)
