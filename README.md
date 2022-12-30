@@ -27,4 +27,4 @@ The following list contains technical writing and editing resources that provide
 - [Red Hat Style Guides](https://redhat-documentation.github.io/supplementary-style-guide/)
 - [Google Developer Documentation Style Guide](https://developers.google.com/style)
 - [Apple Style Guide](https://support.apple.com/guide/applestyleguide/welcome/web)
-- [Write the Doc Style Guides](https://www.writethedocs.org/guide/writing/style-guides/)
+- [Write the Docs Style Guides](https://www.writethedocs.org/guide/writing/style-guides/)
