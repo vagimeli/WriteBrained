@@ -10,4 +10,12 @@ Hi, I'm Melissa Vagi, a technical writer who has spent the past decade helping s
 
 # Resources
 
-I like to share knowledge with peers, communities, friends, and family. Here's a list of resources that are help you gain technical understanding and improve writing skills. 
+I like to share knowledge with peers, communities, friends, and family. Here's a list of resources that help increase technical understanding and improve writing skills.
+
+## Community
+
+## Courses
+
+## Videos
+
+## Style guides
