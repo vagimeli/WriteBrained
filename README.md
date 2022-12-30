@@ -8,7 +8,7 @@ Hi, I'm Melissa Vagi, a technical writer who has spent the past decade helping s
 
 > I meant what I said and I said what I meant. - Dr. Seuss
 
-# Resources
+# Technical writing and editing resources
 
 The following list contains technical writing and editing resources that provide worthwhile perspectives, guidance, and tips.
 
