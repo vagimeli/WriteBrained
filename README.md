@@ -4,6 +4,10 @@
 
 # Welcome
 
-Hi, I"m Melissa Vagi, a technical writer who has spent the past decade helping software engineers, developers, product managers, and other technical groups communicate effectively. I'm passionate about simply and plainly communicating complex technical information so that you quickly get the information you need.
+Hi, I'm Melissa Vagi, a technical writer who has spent the past decade helping software engineers, developers, product managers, and other technical groups communicate effectively. I'm passionate about writing complex technical concepts simply and plainly so that you quickly get the information you need.
 
 > I meant what I said and I said what I meant. - Dr. Seuss
+
+# Resources
+
+I like to share knowledge with peers, communities, friends, and family. Here's a list of resources that are help you gain technical understanding and improve writing skills. 
