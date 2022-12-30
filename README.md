@@ -10,7 +10,7 @@ Hi, I'm Melissa Vagi, a technical writer who has spent the past decade helping s
 
 # Resources
 
-Here are some helpful technical writing and editing resources that provide worthwhile perspectives, guidance, and tips.
+The following list contains technical writing and editing resources that provide worthwhile perspectives, guidance, and tips.
 
 ## Community
 
