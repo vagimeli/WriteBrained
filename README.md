@@ -8,7 +8,7 @@ Hi, I'm Melissa Vagi, a technical writer and content strategist with 15 years of
 
 - [Quickstart guide](https://opensearch.org/docs/latest/dashboards/quickstart/)
 - [Ingest API reference documentation](https://opensearch.org/docs/latest/api-reference/ingest-apis/index/)
-- [OpenSeach Dashboards product documentation]([<insert-links>](https://opensearch.org/docs/latest/dashboards/index/)
+- [OpenSeach Dashboards product documentation](https://opensearch.org/docs/latest/dashboards/index/)
 
 ## Technical editing and document design projects
 
