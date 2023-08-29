@@ -10,10 +10,10 @@ Hi, I'm Melissa Vagi, a technical writer who has spent the past decade helping s
 - [Ingest API product documentation](<insert-link>)
 - [OpenSeach Dashboards product documentation](<insert-links>)
 
-## Technical editing projects
+## Technical editing and document design projects
 
 - [Defense Logistics Agency (DLA) Energy Environmental Guide for Fuel Facilities](https://www.dla.mil/Energy/About/Library/)
-- [Passaic River Basin Climate Resilience Planning Study](https://www.njtpa.org/Planning/Regional-Programs/Studies/Completed/2019/Passaic-River-Basin-Climate-Resilience-Plan.aspx) 
+- [Passaic River Basin Climate Resilience Planning Study](https://www.njtpa.org/Planning/Regional-Programs/Studies/Completed/2019/Passaic-River-Basin-Climate-Resilience-Plan.aspx)
 - [Chesapeake Bay Comprehensive Plan and Restoration Roadmap](https://www.nab.usace.army.mil/Missions/Civil-Works/chesapeake-bay-comprehensive-plan/)
 - [Gullah Geechee Cultural Heritage Corridor Management Plan](https://gullahgeecheecorridor.org/resources/management-plan/)
 - [Virgin River Comprehensive Management Plan/Environmental Assessment](https://www.rivers.gov/rivers/sites/rivers/files/documents/plans/virgin-plan.pdf)
