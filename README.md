@@ -1,6 +1,6 @@
 # Hi there!
 
-Hi, I'm Melissa Vagi, a technical writer and content strategist 15 years of experience in helping software engineers, developers, product managers, and business development teams communicate effectively and impactfully. I thrive on making technical information understandable, solving word problems, guiding storytelling, and engaging readers.
+Hi, I'm Melissa Vagi, a technical writer and content strategist with 15 years of experience in helping software engineers, developers, product managers, and business development teams communicate effectively and impactfully. I thrive on making technical information understandable, solving word problems, guiding storytelling, and engaging readers.
 
 > I meant what I said and I said what I meant. - Dr. Seuss
 
