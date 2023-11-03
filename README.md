@@ -7,7 +7,7 @@ Hi, I'm Melissa Vagi, a technical writer and content strategist with 15 years of
 ## Technical writing projects
 
 - [Quickstart guide](https://opensearch.org/docs/latest/dashboards/quickstart/)
-- [Ingest Pipelines reference documentation](https://opensearch.org/docs/latest/ingest-pipelines/index/)
+- [Ingest pipelines reference documentation](https://opensearch.org/docs/latest/ingest-pipelines/index/)
 - [OpenSeach Dashboards product documentation](https://opensearch.org/docs/latest/dashboards/index/)
 
 ## Technical editing and document design projects
