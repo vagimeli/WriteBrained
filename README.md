@@ -18,6 +18,10 @@ Hi, I'm Melissa Vagi, a technical writer and content strategist with 15 years of
 - [Gullah Geechee Cultural Heritage Corridor Management Plan](https://gullahgeecheecorridor.org/resources/management-plan/)
 - [Virgin River Comprehensive Management Plan/Environmental Assessment](https://www.rivers.gov/rivers/sites/rivers/files/documents/plans/virgin-plan.pdf)
 
+## Presentations
+
+- [Contributing OpenSearch documentation: a quick guide for developers](https://www.youtube.com/watch?v=zmVC3fQwnVI)
+
 ## Resume
 
 Want to learn more about my professional experience and background? Check out [my LinkedIn page](https://www.linkedin.com/in/melissavagi)! I'm always willing to connect with new people, so feel free to send me a message. Looking forward to seeing you there!
