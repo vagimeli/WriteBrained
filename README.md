@@ -18,6 +18,11 @@ Hi, I'm Melissa Vagi, a technical writer and content strategist with 15 years of
 - [Gullah Geechee Cultural Heritage Corridor Management Plan](https://gullahgeecheecorridor.org/resources/management-plan/)
 - [Virgin River Comprehensive Management Plan/Environmental Assessment](https://www.rivers.gov/rivers/sites/rivers/files/documents/plans/virgin-plan.pdf)
 
+## UX/UI copywriting
+
+- [Alerting monitor details cards](https://playground.opensearch.org/app/alerting#/monitors/6vaSOosBa5CNl5BaR20Q?action=update-monitor)
+- [Anomaly detection real-time results pane](https://playground.opensearch.org/app/anomaly-detection-dashboards#/detectors/Sv6SOosBinAYkW773t8v/results)  
+
 ## Presentations
 
 - [Contributing OpenSearch documentation: a quick guide for developers](https://www.youtube.com/watch?v=zmVC3fQwnVI)
