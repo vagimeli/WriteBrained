@@ -10,7 +10,7 @@ Hi, I'm Melissa Vagi, a technical writer and content strategist with 15 years of
 - [Ingest pipelines reference documentation](https://opensearch.org/docs/latest/ingest-pipelines/index/)
 - [OpenSeach Dashboards product documentation](https://opensearch.org/docs/latest/dashboards/index/)
 
-## Technical editing and document design projects
+## Technical editing and information design projects
 
 - [Defense Logistics Agency (DLA) Energy Environmental Guide for Fuel Facilities](https://www.dla.mil/Energy/About/Library/)
 - [Passaic River Basin Climate Resilience Planning Study](https://www.njtpa.org/Planning/Regional-Programs/Studies/Completed/2019/Passaic-River-Basin-Climate-Resilience-Plan.aspx)
