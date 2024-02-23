@@ -20,6 +20,7 @@ Hi, I'm Melissa Vagi, a technical writer and content strategist with 15 years of
 
 ## UX/UI copywriting
 
+- [PPL Reference Guide](https://playground.opensearch.org/app/observability-dashboards#/bf652d00-d128-11ee-a7af-a7d192ce1e53)
 - [OpenSearch and Amazon S3 data sources integation interface](https://playground.opensearch.org/app/datasources#/configure/S3GLUE)
 - [Alerting monitor details cards and error messages](https://playground.opensearch.org/app/alerting#/monitors/6vaSOosBa5CNl5BaR20Q?action=update-monitor)
 - [Anomaly detection real-time results pane](https://playground.opensearch.org/app/anomaly-detection-dashboards#/detectors/Sv6SOosBinAYkW773t8v/results)  
