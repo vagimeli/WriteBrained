@@ -30,7 +30,7 @@ My portfolio includes federal, state, and local government proposals. Samples ca
 - [Alerting monitor details cards and error messages](https://playground.opensearch.org/app/alerting#/monitors/6vaSOosBa5CNl5BaR20Q?action=update-monitor)
 - [Anomaly detection real-time results pane](https://playground.opensearch.org/app/anomaly-detection-dashboards#/detectors/Sv6SOosBinAYkW773t8v/results)  
 
-## Presentations and interviews
+## Presentations
 
 - [Contributing OpenSearch documentation: a quick guide for developers](https://www.youtube.com/watch?v=zmVC3fQwnVI)
 - [Interview with an editor: Melissa Vagi](https://aceseditors.org/news/2020/interview-with-an-editor-melissa-vagi)
