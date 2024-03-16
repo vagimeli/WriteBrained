@@ -12,11 +12,16 @@ Hi, I'm Melissa Vagi, a technical writer and content strategist with 15 years of
 
 ## Technical editing and information design projects
 
-- [Defense Logistics Agency (DLA) Energy Environmental Guide for Fuel Facilities](https://www.dla.mil/Energy/About/Library/)
-- [Passaic River Basin Climate Resilience Planning Study](https://www.njtpa.org/Planning/Regional-Programs/Studies/Completed/2019/Passaic-River-Basin-Climate-Resilience-Plan.aspx)
-- [Chesapeake Bay Comprehensive Plan and Restoration Roadmap](https://www.nab.usace.army.mil/Missions/Civil-Works/chesapeake-bay-comprehensive-plan/)
-- [Gullah Geechee Cultural Heritage Corridor Management Plan](https://gullahgeecheecorridor.org/resources/management-plan/)
-- [Virgin River Comprehensive Management Plan/Environmental Assessment](https://www.rivers.gov/rivers/sites/rivers/files/documents/plans/virgin-plan.pdf)
+- [Defense Logistics Agency (DLA) Energy Environmental Guide for Fuel Facilities](https://www.dla.mil/Energy/About/Library/) (U.S. Department of Defense)
+- [Passaic River Basin Climate Resilience Planning Study](https://www.njtpa.org/Planning/Regional-Programs/Studies/Completed/2019/Passaic-River-Basin-Climate-Resilience-Plan.aspx) (North Jersey Transportation Planning Authority) 
+- [Chesapeake Bay Comprehensive Plan and Restoration Roadmap](https://www.nab.usace.army.mil/Missions/Civil-Works/chesapeake-bay-comprehensive-plan/) (U.S. Army Corps of Engineers) 
+- [Gullah Geechee Cultural Heritage Corridor Management Plan](https://gullahgeecheecorridor.org/resources/management-plan/) (U.S. Department of the Interior, National Park Service)
+- [Virgin River Comprehensive Management Plan/Environmental Assessment](https://www.rivers.gov/rivers/sites/rivers/files/documents/plans/virgin-plan.pdf) (U.S. Department of the Interior, National Park Service)
+- [Haleakala National Park Commerical Services Plan Environmental Assessment](https://www.nps.gov/hale/learn/management/index.htm) (U.S. Department of the Interior, National Park Service)
+
+## Proposal writing projects
+
+My portfolio includes federal, state, and local government proposals. Samples cannot be shared due to proprietary information. Connect with me directly at [hello@writebrainedits.com](hello@writebrainedits.com) to discuss your proposal project.
 
 ## UX/UI copywriting
 
@@ -25,9 +30,10 @@ Hi, I'm Melissa Vagi, a technical writer and content strategist with 15 years of
 - [Alerting monitor details cards and error messages](https://playground.opensearch.org/app/alerting#/monitors/6vaSOosBa5CNl5BaR20Q?action=update-monitor)
 - [Anomaly detection real-time results pane](https://playground.opensearch.org/app/anomaly-detection-dashboards#/detectors/Sv6SOosBinAYkW773t8v/results)  
 
-## Presentations
+## Presentations and interviews
 
 - [Contributing OpenSearch documentation: a quick guide for developers](https://www.youtube.com/watch?v=zmVC3fQwnVI)
+- [Interview with an editor: Melissa Vagi](https://aceseditors.org/news/2020/interview-with-an-editor-melissa-vagi)
 
 ## Resume
 
