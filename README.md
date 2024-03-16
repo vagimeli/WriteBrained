@@ -21,7 +21,7 @@ Hi, I'm Melissa Vagi, a technical writer and content strategist with 15 years of
 
 ## Proposal writing projects
 
-My portfolio includes federal, state, and local government proposals. Samples cannot be shared due to proprietary information. Connect with me directly at [hello@writebrainedits.com](hello@writebrainedits.com) to discuss your proposal project.
+My portfolio includes federal, state, and local government proposals. Samples cannot be shared due to proprietary information. Connect with me at [www.writebrainedits.com](www.writebrainedits.com) to discuss your proposal project.
 
 ## UX/UI copywriting
 
