@@ -21,7 +21,7 @@ Hi, I'm Melissa Vagi, a technical writer and content strategist with 15 years of
 
 ## Proposal writing projects
 
-Samples cannot be shared due to proprietary information. My portfolio includes federal, state, and local government agencies such as USDOT, FHWA, Volpe Center, USACE, NPS, Bureau of Reclamation, USIBWC, NASA, Defense Logistics Agency, Veterans Affairs, The White House Office, and Office of Science and Technology Policy. Connect with me at [www.writebrainedits.com](https://www.writebrainedits.com) to discuss your proposal project.
+Samples cannot be shared due to confidentiality. My proposal writing portfolio includes work across all levels of government, including the following agencies: USDOT, FHWA, Volpe Center, USACE, FEMA, NPS, Bureau of Reclamation, USIBWC, VA, NASA, DOD, Defense Logistics Agency, The White House Office, and Office of Science and Technology Policy. Connect with me at [www.writebrainedits.com/contact](https://www.writebrainedits.com/contact) to schedule a consultation to discuss your proposal project.
 
 ## UX/UI copywriting
 
