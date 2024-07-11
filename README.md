@@ -38,3 +38,9 @@ Samples cannot be shared due to confidentiality. My proposal writing portfolio i
 ## Resume
 
 Want to learn more about my professional experience and background? Check out [my LinkedIn page](https://www.linkedin.com/in/melissavagi)! I'm always willing to connect with new people, so feel free to send me a message. Looking forward to seeing you there!
+
+## Certifications
+
+- AWS Certified Cloud Practitioner, 2021--present
+- ISC2 Certified in Cybersecurity, 2024
+- IAPP CIPP/US, in progess
