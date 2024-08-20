@@ -1,6 +1,10 @@
 # Hi there!
 
-Hi, I'm Melissa Vagi, a technical writer and content strategist with 15 years of experience in crafting compelling, impactful communications for government agencies and technology companies. I thrive on making complex information understandable, solving word problems, guiding storytelling, and engaging readers.
+Hi, I'm Melissa Vagi, a resourceful and versatile technical writer who's making the exciting transition into the world of cybersecurity. One of my passions is taking complex technical information and making it understandable and engaging for my audience. I just love solving those tricky word problems and crafting content that captures reader's attention.
+
+I've got this unique blend of being a high-level strategic thinker and a hands-on individual contributor. You can count on me to step up and get the job done, no matter what challenges come my way. And, I'm really passionate about being an inspirational mentor, helping to foster those peer-to-peer learning environments where everyone can grow and thrive.
+
+Now, I'm eager to leverage all of these skills as I transition into the exciting world of cybersecurity. With my newly acquired certifications and knowledge, I'm ready to dive into threat analysis and data privacy roles, where I can make a real difference. So if you're looking for a versatile, driven, and collaborative teammate, I'd love to chat more about how I can contribute to your team.
 
 > I meant what I said and I said what I meant. - Dr. Seuss
 
