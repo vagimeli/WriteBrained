@@ -8,7 +8,6 @@ Check out these tools and guidance!
 - [Erin Wright Writing (writing-related software tutorials](https://erinwrightwriting.com/)
 - [iA Writer (writing app)](https://ia.net/writer)
 - [Write the Docs (documentation-related topics)](https://www.writethedocs.org/)
-- [plainlanguage.gov](https://www.plainlanguage.gov/)
 
 ## AI
 
