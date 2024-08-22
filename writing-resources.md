@@ -2,12 +2,17 @@
 
 Check out these tools and guidance! 
 
-## Useful tools
+## Tutorials and tools
 
 - [Kevin Stratvert (technology how-to videos)](https://www.youtube.com/@KevinStratvert)
 - [Erin Wright Writing (writing-related software tutorials](https://erinwrightwriting.com/)
 - [iA Writer (writing app)](https://ia.net/writer)
 - [Write the Docs (documentation-related topics)](https://www.writethedocs.org/)
+- [plainlanguage.gov](https://www.plainlanguage.gov/)
+
+## AI
+
+- [The Authors Guild AI Best Practices for Authors](https://authorsguild.org/resource/ai-best-practices-for-authors/)
 
 ## Technical writing style guides
 
@@ -24,3 +29,7 @@ Check out these tools and guidance!
 - [Plain Language.gov](https://www.plainlanguage.gov/)
 - [U.S. Digital Services Playbook](https://playbook.cio.gov/)
 - [U.S. Government Publishing Office Style Manual](https://www.govinfo.gov/collection/gpo-style-manual?path=/GPO/U.S.%20Government%20Publishing%20Office%20Style%20Manual)
+
+##  Books 
+
+- [The Product is Docs: Writing Technical Documentation in a Product Developement Group](https://www.amazon.com/dp/B085KHTV95)
