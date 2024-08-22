@@ -31,4 +31,4 @@ Check out these tools and guidance!
 
 ##  Books 
 
-- [The Product is Docs: Writing Technical Documentation in a Product Developement Group](https://www.amazon.com/dp/B085KHTV95)
+- [The Product is Docs: Writing Technical Documentation in a Product Development Group](https://www.amazon.com/dp/B085KHTV95)
