@@ -5,7 +5,7 @@ Check out these tools and guidance!
 ## Tutorials and tools
 
 - [Kevin Stratvert (technology how-to videos)](https://www.youtube.com/@KevinStratvert)
-- [Erin Wright Writing (writing-related software tutorials](https://erinwrightwriting.com/)
+- [Erin Wright Writing (writing-related software tutorials)](https://erinwrightwriting.com/)
 - [iA Writer (writing app)](https://ia.net/writer)
 - [Write the Docs (documentation-related topics)](https://www.writethedocs.org/)
 
