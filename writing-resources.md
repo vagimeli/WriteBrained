@@ -2,12 +2,12 @@
 
 Check out these tools and guidance! 
 
-## Tutorials and tools
+## Tutorials
 
 - [Kevin Stratvert (technology how-to videos)](https://www.youtube.com/@KevinStratvert)
 - [Erin Wright Writing (writing-related software tutorials)](https://erinwrightwriting.com/)
-- [iA Writer (writing app)](https://ia.net/writer)
 - [Write the Docs (documentation-related topics)](https://www.writethedocs.org/)
+- [The Linux Foundation Open Source Technical Documentation Essentials and Creating Effective Documentation for Developers (open source documentation)](https://training.linuxfoundation.org/blog/two-new-free-courses-for-better-documentation/)
 
 ## AI
 
@@ -15,7 +15,7 @@ Check out these tools and guidance!
 
 ## Technical writing style guides
 
-- [OpenSearch Style Guidelines](https://github.com/opensearch-project/documentation-website/blob/main/STYLE_GUIDE.md)
+- [The GitLab Handbook](https://handbook.gitlab.com/handbook/product/ux/technical-writing/)
 - [SUSE Documentation Style Guide](https://github.com/SUSE/doc-styleguide)
 - [Red Hat Style Guides](https://redhat-documentation.github.io/supplementary-style-guide/)
 - [Google Developer Documentation Style Guide](https://developers.google.com/style)
