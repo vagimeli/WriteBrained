@@ -7,7 +7,7 @@ Check out these tools and guidance!
 - [Kevin Stratvert (technology how-to videos)](https://www.youtube.com/@KevinStratvert)
 - [Erin Wright Writing (writing-related software tutorials)](https://erinwrightwriting.com/)
 - [Write the Docs (documentation-related topics)](https://www.writethedocs.org/)
-- [The Linux Foundation Open Source Technical Documentation Essentials and Creating Effective Documentation for Developers (open source documentation)](https://training.linuxfoundation.org/blog/two-new-free-courses-for-better-documentation/)
+- [The Linux Foundation Open Source Technical Documentation Essentials and Creating Effective Documentation for Developers (open source documentation training)](https://training.linuxfoundation.org/blog/two-new-free-courses-for-better-documentation/)
 
 ## AI
 
