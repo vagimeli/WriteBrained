@@ -8,5 +8,3 @@ I have a 15-year career as a technical writer; the past 4 years have been with A
 
 Over the past couple years, I've developed an interest in cybersecurity. This year, I've dedicated time to my professional development by enrolling in the Google Cybersecurity certification and joining WiCyS. I'm particularly drawn to data privacy and compliance. However, as a mid-level professional and mother navigating a career change, I'm still exploring the security domains and assessing which ones align with my capabilities and aspirations.
 
-## Google certification portfolio activity
-
