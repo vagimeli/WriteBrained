@@ -8,6 +8,7 @@ Check out these tools and guidance!
 - [Erin Wright Writing (writing-related software tutorials)](https://erinwrightwriting.com/)
 - [Write the Docs (documentation-related topics)](https://www.writethedocs.org/)
 - [The Linux Foundation Open Source Technical Documentation Essentials and Creating Effective Documentation for Developers (open source documentation training)](https://training.linuxfoundation.org/blog/two-new-free-courses-for-better-documentation/)
+- [Section 508 Online Training](information and communication technology (ICT) accessiblity training)](https://www.section508.gov/training-home/#Onlinetraining)  
 
 ## AI
 
