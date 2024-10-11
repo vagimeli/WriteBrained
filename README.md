@@ -45,6 +45,7 @@ Want to learn more about my professional experience and background? Check out [m
 
 ## Certifications
 
-- AWS Certified Cloud Practitioner, 2021--present
+- AWS Certified Cloud Practitioner, 2021--2027
+- AWS Certified AI Practitioner, 2024--2027
 - ISC2 Certified in Cybersecurity, 2024
 - IAPP CIPP/US, in progess
