@@ -9,4 +9,4 @@
 
 ## Contact us
 
-Learn more about Write-Brained at [www.writebrainedits.com](https://www.writebrainedits.com/). Reach out to us at [hello@writebrainedits.com](hello@writebrainedits.com).
+Learn more about Write-Brained at [www.writebrainedits.com](https://www.writebrainedits.com/). Reach out to us at [hello@writebrainedits.com](mailto:hello@writebrainedits.com).
