@@ -25,7 +25,7 @@ Now, I'm eager to leverage all of these skills as I transition into the exciting
 
 ## Proposal writing projects
 
-Samples cannot be shared due to confidentiality. My proposal writing portfolio includes work across all levels of government, including the following agencies: USDOT, FHWA, Volpe Center, USACE, FEMA, NPS, Bureau of Reclamation, USIBWC, VA, NASA, DOD, Defense Logistics Agency, The White House Office, and Office of Science and Technology Policy. Connect with me at [www.writebrainedits.com/contact](https://www.writebrainedits.com/contact) to schedule a consultation to discuss your proposal project.
+Samples cannot be shared due to confidentiality. My proposal writing portfolio includes work across all levels of government, including the following federal agencies: USDOT, FHWA, Volpe Center, USACE, FEMA, NPS, Bureau of Reclamation, USIBWC, VA, NASA, DOD, Defense Logistics Agency, The White House Office, and Office of Science and Technology Policy. Connect with me at [www.writebrainedits.com/contact](https://www.writebrainedits.com/contact) to schedule a consultation to discuss your proposal project.
 
 ## UX/UI copywriting
 
