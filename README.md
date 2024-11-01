@@ -10,9 +10,8 @@ Now, I'm eager to leverage all of these skills as I transition into the exciting
 
 ## Technical writing projects
 
-- [Quickstart guide](https://opensearch.org/docs/latest/dashboards/quickstart/)
 - [Ingest pipelines reference documentation](https://opensearch.org/docs/latest/ingest-pipelines/index/)
-- [OpenSeach Dashboards product documentation](https://opensearch.org/docs/latest/dashboards/index/)
+- [OpenSearch Dashboards Workspaces documentation]()
 
 ## Technical editing and information design projects
 
@@ -29,7 +28,6 @@ Samples cannot be shared due to confidentiality. My proposal writing portfolio i
 
 ## UX/UI copywriting
 
-- [PPL Reference Guide](https://playground.opensearch.org/app/observability-dashboards#/bf652d00-d128-11ee-a7af-a7d192ce1e53)
 - [OpenSearch and Amazon S3 data sources integation interface](https://playground.opensearch.org/app/datasources#/configure/S3GLUE)
 - [Alerting monitor details cards and error messages](https://playground.opensearch.org/app/alerting#/monitors/6vaSOosBa5CNl5BaR20Q?action=update-monitor)
 - [Anomaly detection main page](https://playground.opensearch.org/app/anomaly-detection-dashboards#/overview?dataSourceId=)  
