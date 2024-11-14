@@ -10,8 +10,9 @@ Now, I'm eager to leverage all of these skills as I transition into the exciting
 
 ## Technical writing projects
 
+- [OpenSearch Dashboards documentation](https://opensearch.org/docs/latest/dashboards/)
 - [Ingest pipelines reference documentation](https://opensearch.org/docs/latest/ingest-pipelines/index/)
-- [OpenSearch Dashboards Workspaces documentation]()
+- [Workspace for OpenSearch documentation](https://opensearch.org/docs/latest/dashboards/workspace/workspace/)
 
 ## Technical editing and information design projects
 
@@ -46,5 +47,5 @@ Want to learn more about my professional experience and background? Check out [m
 - AWS Certified Cloud Practitioner, 2021-2027
 - AWS Certified AI Practitioner, 2024-2027
 - ISC2 Certified in Cybersecurity, 2024-2027
+- CF APMP, 2024
 - IAPP CIPP/US, in progess
-- CF APMP, in progress
