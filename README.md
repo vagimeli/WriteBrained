@@ -1,10 +1,18 @@
-# Hi there!
+# Melissa Vagi, CF APMP  
+**Director of Technical Communication and Digital Accessibility Compliance**  
+*DHS Trusted Tester | Section 508 & WCAG Specialist | Transitioning into AI Governance (AIGP Certification in Progress)*
 
-Hi, I'm Melissa Vagi, a resourceful and versatile technical writer who's making the exciting transition into the world of cybersecurity. One of my passions is taking complex technical information and making it understandable and engaging for my audience. I just love solving those tricky word problems and crafting content that captures reader's attention.
+Hi, I'm Melissa Vagi---founder of Write-Brained Editorial Services (SBA EDWOSB, UEI: DGUJG1KTUVS4) and a 15-year federal proposal veteran specializing in **digital accessibility compliance** for government agencies. I transform complex technical and regulatory requirements into clear, Section 508/WCAG-conformant content that meets ADA Title II, Colorado HB 21-1110, and emerging mandates.
 
-I've got this unique blend of being a high-level strategic thinker and a hands-on individual contributor. You can count on me to step up and get the job done, no matter what challenges come my way. And, I'm really passionate about being an inspirational mentor, helping to foster those peer-to-peer learning environments where everyone can grow and thrive.
+As **Director of Technical Communication and Digital Accessibility Compliance**, I lead end-to-end solutions for **documents and websites**: AI-enhanced audits and remediation, accessible template design, and hands-on training that enables teams to maintain compliance independently. My work has delivered fully conformant assets for NASA, DOD, DLA, USACE, Jefferson County, and AWS—resolving accessibility gaps efficiently and supporting billion-dollar federal wins.
 
-Now, I'm eager to leverage all of these skills as I transition into the exciting world of cybersecurity. With my newly acquired certifications and knowledge, I'm ready to dive into threat analysis and data privacy roles, where I can make a real difference. So if you're looking for a versatile, driven, and collaborative teammate, I'd love to chat more about how I can contribute to your team.
+For **Jefferson County, CO**, I converted 300+ internal job aids into Section 508/WCAG-compliant PDFs, built reusable accessible Word templates, and created workflow training with live NVDA demonstrations---completing the project two months ahead of schedule.
+
+Currently pursuing the **IAPP AIGP certification**, I’m integrating ethical AI governance with digital accessibility to power automated 508 remediation, secure prompt libraries, and scalable compliance frameworks.
+
+**Certifications:** DHS Trusted Tester · AWS Certified AI Practitioner · AWS Certified Cloud Practitioner · ISC2 Certified in Cybersecurity · CF APMP
+
+If your agency needs a U.S.-based, EDWOSB-certified partner who can deliver **compliant, accessible documents and websites** from day one, I’d be glad to help. Connect with me at [hello@writebrainedits.com](mailto:hello@writebrainedits.com)
 
 > I meant what I said and I said what I meant. - Dr. Seuss
 
@@ -21,7 +29,7 @@ Now, I'm eager to leverage all of these skills as I transition into the exciting
 - [Chesapeake Bay Comprehensive Plan and Restoration Roadmap](https://www.nab.usace.army.mil/Missions/Civil-Works/chesapeake-bay-comprehensive-plan/) (U.S. Army Corps of Engineers) 
 - [Gullah Geechee Cultural Heritage Corridor Management Plan](https://gullahgeecheecorridor.org/resources/management-plan/) (U.S. Department of the Interior, National Park Service)
 - [Virgin River Comprehensive Management Plan/Environmental Assessment](https://www.rivers.gov/rivers/sites/rivers/files/documents/plans/virgin-plan.pdf) (U.S. Department of the Interior, National Park Service)
-- [Haleakala National Park Commerical Services Plan Environmental Assessment](https://www.nps.gov/hale/learn/management/index.htm) (U.S. Department of the Interior, National Park Service)
+- [Haleakala National Park Commercial Services Plan Environmental Assessment](https://www.nps.gov/hale/learn/management/index.htm) (U.S. Department of the Interior, National Park Service)
 
 ## Proposal writing projects
 
@@ -40,7 +48,7 @@ Samples cannot be shared due to confidentiality. My proposal writing portfolio i
 
 ## Resume
 
-Want to learn more about my professional experience and background? Check out [my LinkedIn page](https://www.linkedin.com/in/melissavagi)! I'm always willing to connect with new people, so feel free to send me a message. Looking forward to seeing you there!
+Want to learn more about my professional experience and background? Check out [my LinkedIn page](https://www.linkedin.com/in/melissavagi)! I'm always open to connecting with new people, so please don't hesitate to send me a message. Looking forward to seeing you there!
 
 ## Certifications
 
@@ -48,4 +56,5 @@ Want to learn more about my professional experience and background? Check out [m
 - AWS Certified AI Practitioner, 2024-2027
 - ISC2 Certified in Cybersecurity, 2024-2027
 - CF APMP, 2024
-- IAPP CIPP/US, in progess
+- DHS Trusted Tester, in progress
+- IAPP AIGP, in progress
