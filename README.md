@@ -2,11 +2,11 @@
 **Director of Technical Communication and Digital Accessibility Compliance**  
 *DHS Trusted Tester | Section 508 & WCAG Specialist | Transitioning into AI Governance (AIGP Certification in Progress)*
 
-Hi, I'm Melissa Vagi---founder of Write-Brained Editorial Services (SBA EDWOSB, UEI: DGUJG1KTUVS4) and a 15-year federal proposal veteran specializing in **digital accessibility compliance** for government agencies. I transform complex technical and regulatory requirements into clear, Section 508/WCAG-conformant content that meets ADA Title II, Colorado HB 21-1110, and emerging mandates.
+Hi, I'm Melissa Vagi—founder of Write-Brained Editorial Services (SBA EDWOSB, UEI: DGUJG1KTUVS4) and a 15-year federal proposal veteran specializing in **digital accessibility compliance** for government agencies. I transform complex technical and regulatory requirements into clear, Section 508/WCAG-conformant content that meets ADA Title II, Colorado HB 21-1110, and emerging mandates.
 
 As **Director of Technical Communication and Digital Accessibility Compliance**, I lead end-to-end solutions for **documents and websites**: AI-enhanced audits and remediation, accessible template design, and hands-on training that enables teams to maintain compliance independently. My work has delivered fully conformant assets for NASA, DOD, DLA, USACE, Jefferson County, and AWS—resolving accessibility gaps efficiently and supporting billion-dollar federal wins.
 
-For **Jefferson County, CO**, I converted 300+ internal job aids into Section 508/WCAG-compliant PDFs, built reusable accessible Word templates, and created workflow training with live NVDA demonstrations---completing the project two months ahead of schedule.
+For **Jefferson County, CO**, I converted 300+ internal job aids into Section 508/WCAG-compliant PDFs, built reusable accessible Word templates, and created workflow training with live NVDA demonstrations—completing the project two months ahead of schedule.
 
 Currently pursuing the **IAPP AIGP certification**, I’m integrating ethical AI governance with digital accessibility to power automated 508 remediation, secure prompt libraries, and scalable compliance frameworks.
 
