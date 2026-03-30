@@ -10,9 +10,9 @@ SBA WOSB / EDWOSB · Colorado CDOT DBE · UEI: DGUJG1KTUVS4
 
 I help federal agencies, state and local governments, and their contractors meet digital accessibility compliance requirements and win government contracts.
 
-**Write-Brained Editorial Services LLC** is a Colorado-based consultancy with 13+ years of experience at the intersection of technical communication, digital accessibility, and federal procurement. I lead every engagement directly — no handoffs, no project manager layers.
+**Write-Brained Editorial Services LLC** is a Colorado-based consultancy with 13+ years of experience at the intersection of technical communication, digital accessibility, and federal procurement. I lead every engagement directly---no handoffs, no project manager layers.
 
-**At Yudrio, Inc.**, I serve as Director of Information Strategy, Federal Proposals — leading proposal development for federal pursuits and co-developing an internal AI-powered proposal management agent built on AWS Bedrock and Amazon S3.
+**At Yudrio, Inc.**, I serve as Director of Information Strategy, Federal Proposals---leading proposal development for federal pursuits and co-developing an internal AI-powered proposal management agent built on AWS Bedrock and Amazon S3.
 
 ---
 
