@@ -10,9 +10,9 @@ SBA WOSB / EDWOSB · Colorado CDOT DBE · UEI: DGUJG1KTUVS4
 
 I help federal agencies, state and local governments, and their contractors meet digital accessibility compliance requirements and win government contracts.
 
-**Write-Brained Editorial Services LLC** is a Colorado-based consultancy with 13+ years of experience at the intersection of technical communication, digital accessibility, and federal procurement. I lead every engagement directly---no handoffs, no project manager layers.
+**Write-Brained Editorial Services LLC** is a Colorado-based consultancy with 13+ years of experience at the intersection of technical communication, digital accessibility, and federal procurement. I lead every engagement directly — no handoffs, no project manager layers.
 
-**At Yudrio, Inc.**, I serve as Director of Information Strategy, Federal Proposals---leading proposal development for federal pursuits and co-developing an internal AI-powered proposal management agent built on AWS Bedrock and Amazon S3.
+**At Yudrio, Inc.**, I serve as Director of Information Strategy, Federal Proposals — leading proposal development for federal pursuits and co-developing an internal AI-powered proposal management agent built on AWS Bedrock and Amazon S3.
 
 ---
 
@@ -21,7 +21,7 @@ I help federal agencies, state and local governments, and their contractors meet
 ### Digital Accessibility
 - Section 508 conformance testing and remediation (DHS Trusted Tester v5.1.3, in progress)
 - WCAG 2.1 / 2.2 AA compliance — web content, documents, and digital products
-- ADA Title II compliance for state and local government (April 2026 deadline)
+- ADA Title II compliance for state and local government
 - Colorado HB 21-1110 document remediation
 - PDF and document remediation (CommonLook PDF, Adobe Acrobat Pro)
 - Accessibility Conformance Reports (ACRs) and VPATs
@@ -32,6 +32,12 @@ I help federal agencies, state and local governments, and their contractors meet
 - Compliance matrices and executive summaries
 - APMP / Shipley methodology
 - Proposal AI agent development (AWS Bedrock + Amazon S3)
+
+### AI Governance & Strategy
+- AI use policy development and review
+- Responsible AI integration for federal and state government contexts
+- Prompt engineering for accessibility and proposal workflows
+- AI governance advisory (IAPP AIGP, in progress)
 
 ### Technical Writing & Communication
 - Complex technical concepts made plain — software documentation, regulatory guides, policy content
@@ -61,7 +67,7 @@ I help federal agencies, state and local governments, and their contractors meet
 **Document Remediation:** CommonLook PDF · Adobe Acrobat Pro · PAC  
 **Design & Publishing:** Adobe InDesign · Adobe Creative Suite  
 **Proposal & Content:** Microsoft 365 · SharePoint · CivicPlus  
-**AI & Automation:** AWS Bedrock · AWS AI Practitioner · AWS Cloud Practitioner · Amazon S3 · Claude · Prompt engineering
+**AI & Cloud:** AWS Bedrock · AWS AI Practitioner · AWS Cloud Practitioner · Amazon S3 · Claude · Prompt engineering
 
 ---
 
@@ -75,7 +81,7 @@ A free, interactive study tool for the DHS Section 508 Trusted Tester certificat
 
 ## Select Past Performance
 
-**Jefferson County, Colorado** — Remediated 300+ documents (2,900+ pages) for HB 21-1110 compliance. Delivered two months ahead of schedule. Developed the county's first Static Maps Accessibility Guide.
+**Jefferson County, Colorado** — Remediated 2,500+ pages of complex PDFs — including static maps — and 300+ pages of job aids to Section 508/WCAG 2.1 AA. Developed accessible Word templates for staff independence. Delivered two months ahead of schedule.
 
 **City and County of Denver** — Technical writing and accessibility support for CASR Solicitation and Contracting Guidelines.
 
