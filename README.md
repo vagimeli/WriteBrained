@@ -20,17 +20,17 @@ I help federal agencies, state and local governments, and their contractors meet
 
 ### Digital Accessibility
 - Section 508 conformance testing and remediation (DHS Trusted Tester v5.1.3, in progress)
-- WCAG 2.1 / 2.2 AA compliance — web content, documents, and digital products
+- WCAG 2.1 / 2.2 AA compliance—web content, documents, and digital products
 - ADA Title II compliance for state and local government
 - Colorado HB 21-1110 document remediation
 - PDF and document remediation (CommonLook PDF, Adobe Acrobat Pro)
 - Accessibility Conformance Reports (ACRs) and VPATs
 
 ### Federal Proposal Writing
-- Full-cycle proposal management — RFP analysis through final submission
+- Full-cycle proposal management—RFP analysis through final submission
 - Technical volumes, management approaches, past performance narratives
 - Compliance matrices and executive summaries
-- APMP / Shipley methodology
+- APMP and Shipley methodology
 - Proposal AI agent development (AWS Bedrock + Amazon S3)
 
 ### AI Governance & Strategy
