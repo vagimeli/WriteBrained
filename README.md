@@ -46,6 +46,8 @@ I help federal agencies, state and local governments, and their contractors meet
 | Credential | Status |
 |---|---|
 | CF APMP (Certified Foundation, Association of Proposal Management Professionals) | Active |
+| AWS Certified AI Practitioner | Active |
+| AWS Certified Cloud Practitioner | Active |
 | DHS Trusted Tester for Web v5.1.3 | In progress, 2026 |
 | IAPP AIGP (AI Governance Professional) | In progress |
 | Colorado CDOT DBE | Active |
@@ -59,7 +61,7 @@ I help federal agencies, state and local governments, and their contractors meet
 **Document Remediation:** CommonLook PDF · Adobe Acrobat Pro · PAC  
 **Design & Publishing:** Adobe InDesign · Adobe Creative Suite  
 **Proposal & Content:** Microsoft 365 · SharePoint · CivicPlus  
-**AI & Automation:** AWS Bedrock · Amazon S3 · Claude · Prompt engineering
+**AI & Automation:** AWS Bedrock · AWS AI Practitioner · AWS Cloud Practitioner · Amazon S3 · Claude · Prompt engineering
 
 ---
 
