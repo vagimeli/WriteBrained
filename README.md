@@ -40,7 +40,7 @@ I help federal agencies, state and local governments, and their contractors meet
 - AI governance advisory (IAPP AIGP, in progress)
 
 ### Technical Writing & Communication
-- Complex technical concepts made plain — software documentation, regulatory guides, policy content
+- Complex technical concepts made plain—software documentation, regulatory guides, policy content
 - 4 years as Senior Technical Writer at AWS (OpenSearch and related services)
 - Plain language editing for federal and state government content
 - Style guide development and content governance
