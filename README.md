@@ -1,60 +1,94 @@
-# Melissa Vagi, CF APMP  
-**Director of Technical Communication and Digital Accessibility Compliance**  
-*DHS Trusted Tester | Section 508 & WCAG Specialist | Transitioning into AI Governance (AIGP Certification in Progress)*
+# Melissa Vagi, CF APMP
 
-Hi, I'm Melissa Vagi—founder of Write-Brained Editorial Services (SBA EDWOSB, UEI: DGUJG1KTUVS4) and a 15-year federal proposal veteran specializing in **digital accessibility compliance** for government agencies. I transform complex technical and regulatory requirements into clear, Section 508/WCAG-conformant content that meets ADA Title II, Colorado HB 21-1110, and emerging mandates.
+**Founder, Write-Brained Editorial Services LLC**  
+Digital Accessibility · Section 508 · Federal Proposal Writing · Technical Communication  
+SBA WOSB / EDWOSB · Colorado CDOT DBE · UEI: DGUJG1KTUVS4
 
-As **Director of Technical Communication and Digital Accessibility Compliance**, I lead end-to-end solutions for **documents and websites**: AI-enhanced audits and remediation, accessible template design, and hands-on training that enables teams to maintain compliance independently. My work has delivered fully conformant assets for NASA, DOD, DLA, USACE, Jefferson County, and AWS—resolving accessibility gaps efficiently and supporting billion-dollar federal wins.
+---
 
-For **Jefferson County, CO**, I converted 300+ internal job aids into Section 508/WCAG-compliant PDFs, built reusable accessible Word templates, and created workflow training with live NVDA demonstrations—completing the project two months ahead of schedule.
+## What I Do
 
-Currently pursuing the **IAPP AIGP certification**, I’m integrating ethical AI governance with digital accessibility to power automated 508 remediation, secure prompt libraries, and scalable compliance frameworks.
+I help federal agencies, state and local governments, and their contractors meet digital accessibility compliance requirements and win government contracts.
 
-**Certifications:** DHS Trusted Tester · AWS Certified AI Practitioner · AWS Certified Cloud Practitioner · ISC2 Certified in Cybersecurity · CF APMP
+**Write-Brained Editorial Services LLC** is a Colorado-based consultancy with 13+ years of experience at the intersection of technical communication, digital accessibility, and federal procurement. I lead every engagement directly — no handoffs, no project manager layers.
 
-If your agency needs a U.S.-based, EDWOSB-certified partner who can deliver **compliant, accessible documents and websites** from day one, I’d be glad to help. Connect with me at [hello@writebrainedits.com](mailto:hello@writebrainedits.com)
+**At Yudrio, Inc.**, I serve as Director of Information Strategy, Federal Proposals — leading proposal development for federal pursuits and co-developing an internal AI-powered proposal management agent built on AWS Bedrock and Amazon S3.
 
-> I meant what I said and I said what I meant. - Dr. Seuss
+---
 
-## Technical writing projects
+## Service Areas
 
-- [OpenSearch Dashboards documentation](https://opensearch.org/docs/latest/dashboards/)
-- [Ingest pipelines reference documentation](https://opensearch.org/docs/latest/ingest-pipelines/index/)
-- [Workspace for OpenSearch documentation](https://opensearch.org/docs/latest/dashboards/workspace/workspace/)
+### Digital Accessibility
+- Section 508 conformance testing and remediation (DHS Trusted Tester v5.1.3, in progress)
+- WCAG 2.1 / 2.2 AA compliance — web content, documents, and digital products
+- ADA Title II compliance for state and local government (April 2026 deadline)
+- Colorado HB 21-1110 document remediation
+- PDF and document remediation (CommonLook PDF, Adobe Acrobat Pro)
+- Accessibility Conformance Reports (ACRs) and VPATs
 
-## Technical editing and information design projects
+### Federal Proposal Writing
+- Full-cycle proposal management — RFP analysis through final submission
+- Technical volumes, management approaches, past performance narratives
+- Compliance matrices and executive summaries
+- APMP / Shipley methodology
+- Proposal AI agent development (AWS Bedrock + Amazon S3)
 
-- [Defense Logistics Agency (DLA) Energy Environmental Guide for Fuel Facilities](https://www.dla.mil/Energy/About/Library/) (U.S. Department of Defense)
-- [Passaic River Basin Climate Resilience Planning Study](https://www.njtpa.org/Planning/Regional-Programs/Studies/Completed/2019/Passaic-River-Basin-Climate-Resilience-Plan.aspx) (North Jersey Transportation Planning Authority) 
-- [Chesapeake Bay Comprehensive Plan and Restoration Roadmap](https://www.nab.usace.army.mil/Missions/Civil-Works/chesapeake-bay-comprehensive-plan/) (U.S. Army Corps of Engineers) 
-- [Gullah Geechee Cultural Heritage Corridor Management Plan](https://gullahgeecheecorridor.org/resources/management-plan/) (U.S. Department of the Interior, National Park Service)
-- [Virgin River Comprehensive Management Plan/Environmental Assessment](https://www.rivers.gov/rivers/sites/rivers/files/documents/plans/virgin-plan.pdf) (U.S. Department of the Interior, National Park Service)
-- [Haleakala National Park Commercial Services Plan Environmental Assessment](https://www.nps.gov/hale/learn/management/index.htm) (U.S. Department of the Interior, National Park Service)
+### Technical Writing & Communication
+- Complex technical concepts made plain — software documentation, regulatory guides, policy content
+- 4 years as Senior Technical Writer at AWS (OpenSearch and related services)
+- Plain language editing for federal and state government content
+- Style guide development and content governance
 
-## Proposal writing projects
+---
 
-Samples cannot be shared due to confidentiality. My proposal writing portfolio includes work across all levels of government, including the following federal agencies: USDOT, FHWA, Volpe Center, USACE, FEMA, NPS, Bureau of Reclamation, USIBWC, VA, NASA, DOD, Defense Logistics Agency, The White House Office, and Office of Science and Technology Policy. Connect with me at [www.writebrainedits.com/contact](https://www.writebrainedits.com/contact) to schedule a consultation to discuss your proposal project.
+## Credentials
 
-## UX/UI copywriting
+| Credential | Status |
+|---|---|
+| CF APMP (Certified Foundation, Association of Proposal Management Professionals) | Active |
+| DHS Trusted Tester for Web v5.1.3 | In progress, 2026 |
+| IAPP AIGP (AI Governance Professional) | In progress |
+| Colorado CDOT DBE | Active |
+| SBA WOSB / EDWOSB | Active |
 
-- [OpenSearch and Amazon S3 data sources integation interface](https://playground.opensearch.org/app/datasources#/configure/S3GLUE)
-- [Alerting monitor details cards and error messages](https://playground.opensearch.org/app/alerting#/monitors/6vaSOosBa5CNl5BaR20Q?action=update-monitor)
-- [Anomaly detection main page](https://playground.opensearch.org/app/anomaly-detection-dashboards#/overview?dataSourceId=)  
+---
 
-## Presentations
+## Tools & Technologies
 
-- [Contributing OpenSearch documentation: a quick guide for developers](https://www.youtube.com/watch?v=zmVC3fQwnVI)
-- [Interview with an editor: Melissa Vagi](https://aceseditors.org/news/2020/interview-with-an-editor-melissa-vagi)
+**Accessibility Testing:** ANDI · Colour Contrast Analyser (CCA) · WAVE · axe · NVDA · JAWS  
+**Document Remediation:** CommonLook PDF · Adobe Acrobat Pro · PAC  
+**Design & Publishing:** Adobe InDesign · Adobe Creative Suite  
+**Proposal & Content:** Microsoft 365 · SharePoint · CivicPlus  
+**AI & Automation:** AWS Bedrock · Amazon S3 · Claude · Prompt engineering
 
-## Resume
+---
 
-Want to learn more about my professional experience and background? Check out [my LinkedIn page](https://www.linkedin.com/in/melissavagi)! I'm always open to connecting with new people, so please don't hesitate to send me a message. Looking forward to seeing you there!
+## Featured Project
 
-## Certifications
+### 🔖 [DHS Trusted Tester v5.1.3 — 60-Day Study Guide](https://vagimeli.github.io/dhs-trusted-tester-study-guide/)
 
-- AWS Certified Cloud Practitioner, 2021-2027
-- AWS Certified AI Practitioner, 2024-2027
-- ISC2 Certified in Cybersecurity, 2024-2027
-- CF APMP, 2024
-- DHS Trusted Tester, in progress
-- IAPP AIGP, in progress
+A free, interactive study tool for the DHS Section 508 Trusted Tester certification — built while completing the certification myself. Includes a 60-day study schedule, 40 flashcards, WCAG 2.2 vs. 2.1 comparison, ANDI module reference, and exam strategy. No login, no download.
+
+---
+
+## Select Past Performance
+
+**Jefferson County, Colorado** — Remediated 300+ documents (2,900+ pages) for HB 21-1110 compliance. Delivered two months ahead of schedule. Developed the county's first Static Maps Accessibility Guide.
+
+**City and County of Denver** — Technical writing and accessibility support for CASR Solicitation and Contracting Guidelines.
+
+**AWS (OpenSearch Service)** — Senior Technical Writer, 4 years. Built accessible developer documentation from the ground up for a service reaching millions of users.
+
+**DLA Energy** — Remediated complex federal regulatory environmental guide under compressed deadline. Received Quality Excellence Award.
+
+---
+
+## Connect
+
+- 🌐 [writebrainedits.com](https://www.writebrainedits.com)
+- 💼 [linkedin.com/in/melissavagi](https://www.linkedin.com/in/melissavagi)
+- 📬 hello@writebrainedits.com
+
+---
+
+*Write-Brained Editorial Services LLC is a Colorado-based SBA-certified Women-Owned Small Business (WOSB) and Economically Disadvantaged Women-Owned Small Business (EDWOSB), and a Colorado CDOT Disadvantaged Business Enterprise (DBE).*
