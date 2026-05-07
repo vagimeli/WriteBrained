@@ -71,11 +71,15 @@ I help federal agencies, state and local governments, and their contractors meet
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### 🔖 [DHS Trusted Tester v5.1.3 — 60-Day Study Guide](https://vagimeli.github.io/dhs-trusted-tester-study-guide/)
 
 A free, interactive study tool for the DHS Section 508 Trusted Tester certification, built while completing the certification myself. Includes a 60-day study schedule, 40 flashcards, WCAG 2.2 vs. 2.1 comparison, ANDI module reference, and exam strategy. No login, no download.
+
+### 📘 [The Proposal Field Guide](proposal-field-guide/)
+
+A practical reference for capture, writing, review, and submission on federal proposals for small business contractors. Ten chapters covering the federal proposal lifecycle, plus a chapter on AI use in proposal writing. Free under Creative Commons. No form, no email capture.
 
 ---
 
